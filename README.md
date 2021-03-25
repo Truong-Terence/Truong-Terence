@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-![Cover](https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg)
+![Cover](https://github.com/Truong-Terence/Truong-Terence/main/img/cover.jpg)
