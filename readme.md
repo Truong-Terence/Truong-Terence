@@ -15,4 +15,4 @@ You can check the app we made for the final project at Le Wagon here : https://g
 
 
 - 👤 [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
-- :octocat: [My website](https://truong-terence.github.io/Portfolio.github.io/)
+- :octocat: My [portfolio](https://truong-terence.github.io/Portfolio.github.io/)
