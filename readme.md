@@ -6,8 +6,8 @@ During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exit
 
 - 💻  I'm on Ruby on Rails
 - ✋      I'm open to projects
-- 📘 I'm learning VueJS and React
-
+- 📘 I'm learning React and improving VueJS
+`Ruby` - `Ruby on Rails` - `Python` - `HTML` - `SCSS` - `JavaScript` - `SQL` - `VueJS` - `Active Record` - `AJAX` - `Bootstrap`
 
 <p align="center"> <img src="https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg" alt="drawing" width="600"/> </p>
 <!-- ![Cover](https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg) -->
