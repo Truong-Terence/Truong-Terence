@@ -1,4 +1,5 @@
 from markdown import Markdow
+from fontawesome_markdown import FontAwesomeExtension
 markdown = Markdown(extensions=['fontawesome_markdown']
 
 Hello I'm Térence ✌️,
@@ -15,6 +16,10 @@ During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exit
 <p align="center"> <img src="https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg" alt="drawing" width="600"/> </p>
 <!-- ![Cover](https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg) -->
 You can check the app we made for the final project at Le Wagon **[here](https://github.com/qlourenco/Diamond)** !  
+  
+markdown = Markdown(extensions=[FontAwesomeExtension()]
+markdown.convert('i ♥ :fa-coffee:')
+<p>i ♥ <i class="fa fa-coffee"></i></p> 
   
 markdown.convert('i link :fa-linkedin:')
 
