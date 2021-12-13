@@ -1,7 +1,3 @@
-from markdown import Markdow
-from fontawesome_markdown import FontAwesomeExtension
-markdown = Markdown(extensions=['fontawesome_markdown']
-
 Hello I'm Térence ✌️,
 
 End of 2021, I have been following the professional training **"Web developer" at [Le Wagon](https://www.lewagon.com/fr)** in Nantes ! :train:  
@@ -16,11 +12,7 @@ During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exit
 <p align="center"> <img src="https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg" alt="drawing" width="600"/> </p>
 <!-- ![Cover](https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg) -->
 You can check the app we made for the final project at Le Wagon **[here](https://github.com/qlourenco/Diamond)** !  
-  
-markdown = Markdown(extensions=[FontAwesomeExtension()]
-markdown.convert('i ♥ :fa-coffee:')
-<p>i ♥ <i class="fa fa-coffee"></i></p> 
-  
-markdown.convert('i link :fa-linkedin:')
 
-[LinkedIn](https://www.linkedin.com/in/tvn-terence/) <p>i link <i class="fab fa-linkedin"></i></p>   [My website](https://truong-terence.github.io/Portfolio.github.io/)
+
+- :bust_in_silhouette: [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
+- :octocat: [My website](https://truong-terence.github.io/Portfolio.github.io/)
