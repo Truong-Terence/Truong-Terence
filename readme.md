@@ -9,7 +9,7 @@ During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exit
 - 📘 I'm learning React and improving VueJS
 - - 👤 [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
 - :octocat: My [portfolio](https://truong-terence.github.io/Portfolio.github.io/)  
--   
+  
 `Ruby` - `Ruby on Rails` - `Python` - `HTML` - `SCSS` - `JavaScript` - `SQL` - `VueJS` - `Active Record` - `AJAX` - `Bootstrap`
 
 <p align="center"> <img src="https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg" alt="drawing" width="600"/> </p>
