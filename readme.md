@@ -7,7 +7,7 @@ During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exit
 - 💻  I'm on Ruby on Rails
 - ✋      I'm open to projects
 - 📘 I'm learning React and improving VueJS
-- - 👤 [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
+- 👤 [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
 - :octocat: My [portfolio](https://truong-terence.github.io/Portfolio.github.io/)  
   
 `Ruby` - `Ruby on Rails` - `Python` - `HTML` - `SCSS` - `JavaScript` - `SQL` - `VueJS` - `Active Record` - `AJAX` - `Bootstrap`
