@@ -6,7 +6,10 @@ During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exit
 
 - 💻  I'm on Ruby on Rails
 - ✋      I'm open to projects
-- 📘 I'm learning React and improving VueJS  
+- 📘 I'm learning React and improving VueJS
+- - 👤 [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
+- :octocat: My [portfolio](https://truong-terence.github.io/Portfolio.github.io/)  
+-   
 `Ruby` - `Ruby on Rails` - `Python` - `HTML` - `SCSS` - `JavaScript` - `SQL` - `VueJS` - `Active Record` - `AJAX` - `Bootstrap`
 
 <p align="center"> <img src="https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg" alt="drawing" width="600"/> </p>
@@ -14,5 +17,4 @@ During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exit
 You can check the app we made for the final project at Le Wagon here : https://github.com/qlourenco/Diamond ! 💎
 
 
-- 👤 [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
-- :octocat: My [portfolio](https://truong-terence.github.io/Portfolio.github.io/)
+
