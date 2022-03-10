@@ -1,11 +1,11 @@
 Hello I'm Térence ✌️,
 
 End of 2021, I have been following the professional training **"Web developer" at [Le Wagon](https://www.lewagon.com/fr)** in Nantes ! :train:  
-After this certification (RNCP lvl.6), I wish to **continue my studies in apprenticeship**.    
+
 During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exited in this field where everything is evolving continuously.
 
-- 💻  I'm on Ruby on Rails
-- ✋      I'm open to projects
+- 💻 I'm on Ruby on Rails
+- ✋ I'm open to projects
 - 📘 I'm learning React and improving VueJS
 - 👤 [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
 - :octocat: My [portfolio](https://truong-terence.github.io/Portfolio.github.io/)  
