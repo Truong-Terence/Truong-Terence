@@ -9,7 +9,6 @@ During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exit
 - 📘 I'm learning Java, React and improving VueJS
 - 🌱 I am interested in efficent and "eco friendly" langages, so I'm starting learning Rust and Go
 - 👤 [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
-- :octocat: My [portfolio](https://truong-terence.github.io/Portfolio.github.io/)  
   
 `Ruby` - `Ruby on Rails` - `Python` - `HTML` - `SCSS` - `JavaScript` - `SQL` - `VueJS` - `Active Record` - `AJAX` - `Bootstrap`
 
