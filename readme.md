@@ -1,12 +1,12 @@
 Hello I'm Térence ✌️,
 
-End of 2021, I have been following the professional training **"Web developer" at [Le Wagon](https://www.lewagon.com/fr)** in Nantes ! :train:  
+I have been following the professional training **"Web developer" at [Le Wagon](https://www.lewagon.com/fr)** in Nantes ! :train:  
 
 During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exited in this field where everything is evolving continuously.
 
 - 💻 I'm on Ruby on Rails
 - ✋ I'm open to projects
-- 📘 I'm learning Java, React and improving VueJS
+- 📘 I'm learning Java, React, Angular and improving VueJS
 - 🌱 I am interested in efficent and "eco friendly" langages, so I'm starting learning Rust and Go
 - 👤 [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
   
