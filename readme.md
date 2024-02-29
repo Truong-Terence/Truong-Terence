@@ -1,20 +1,16 @@
 Hello I'm Térence ✌️,
 
-I have been following the professional training **"Web developer" at [Le Wagon](https://www.lewagon.com/fr)** in Nantes ! :train:  
+Full Stack Developer, I work mainly in Java and Javascript. Former wagonner (web dev training) and freelance. Of professional reconversion, I am passionate about innovation technological.
 
-During thoses 9 weeks, I rediscovered codding and so much more ! I'm always exited in this field where everything is evolving continuously.
-
-- 💻 I'm on Ruby on Rails
-- ✋ I'm open to projects
-- 📘 I'm learning Java, React, Angular and improving VueJS
+- 💻 I'm on Java, Ruby & Angular
+- ✋ I'm open to work
 - 🌱 I am interested in efficent and "eco friendly" langages, so I'm starting learning Rust and Go
 - 👤 [LinkedIn](https://www.linkedin.com/in/tvn-terence/)
   
-`Ruby` - `Ruby on Rails` - `Python` - `HTML` - `SCSS` - `JavaScript` - `SQL` - `VueJS` - `Active Record` - `AJAX` - `Bootstrap`
+`Java` - `Spring Boot` - `JS` - `TS` - `Ruby on Rails` - `Python` - `HTML` - `SCSS` - `SQL` - `AJAX` - `Bootstrap`
 
 <p align="center"> <img src="https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg" alt="drawing" width="600"/> </p>
 <!-- ![Cover](https://github.com/Truong-Terence/Truong-Terence/blob/main/img/cover.jpg) -->
-You can check the app we made for the final project at Le Wagon here : https://github.com/qlourenco/Diamond ! 💎
 
 
 
