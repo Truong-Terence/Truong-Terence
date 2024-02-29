@@ -1,6 +1,6 @@
 Hello I'm Térence ✌️,
 
-Full Stack Developer, I work mainly in Java and Javascript. Former wagonner (web dev training) and freelance. Of professional reconversion, I am passionate about innovation technological.
+Full Stack Developer, I work mainly in Java and Javascript. Former wagonner (web dev training) and freelancer. Of professional reconversion, I am passionate about innovation technological.
 
 - 💻 I'm on Java, Ruby & Angular
 - ✋ I'm open to work
